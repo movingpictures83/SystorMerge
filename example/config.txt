@@ -1,0 +1,2 @@
+Prefix plugins/SystorMerge/example/
+Plugin SystorMerge inputfile Systor/ outputfile Systor/
